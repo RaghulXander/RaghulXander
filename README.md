@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghulxander" alt="raghulxander" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://raghuljayanpro.tech/](https://raghuljayanpro.tech/)
+- 👨‍💻 All of my projects are available at [https://raghulxander.github.io/](https://raghulxander.github.io/)
 
 - 💬 Ask me about **React, Javascript, Css, Layouts**
 
